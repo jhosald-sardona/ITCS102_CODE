@@ -1,4 +1,4 @@
-size = int(input('enter size"))
+size = int(input("Enter size"))
 andoy = 1
 for x in range (size):
     for y in range (x):
